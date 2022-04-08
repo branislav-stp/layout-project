@@ -1,0 +1,40 @@
+.sidenav-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+.logo {
+    height: 4rem;
+    width: 10rem
+}
+
+.sidenav-style {
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.sidenav-item {
+    display: block;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.item-child {
+    margin-left: 1.5rem;
+}
+
+a {
+    all: unset;
+}
+
+.breadcrumb-style {
+    display: flex;
+    height: 4rem;
+    padding-left: 2rem;
+    align-items: center;
+    background-color: #424242;
+}
